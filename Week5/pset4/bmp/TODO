@@ -1,0 +1,26 @@
+TODO resize.c
+
+
+	
+
+
+
+
+
+------------------------------------------------
+DONE :)
+
+-change the BITMAPFILEHEADER and BITMAPINFOHEADER dimensions for the oupuut file
+	-new imagesize=old imagesize * (n*n)
+	-new filesize=old filesize -old imagesize + new imagesize
+	- newWidth=oldWidt*n
+	-newHeight=oldHeight*n
+
+-loop through original imagine and paste it n time (rows and columns)
+-wrrite the appropiate pading and skip it with seek 
+
+
+
+
+
+

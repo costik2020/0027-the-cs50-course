@@ -1,0 +1,23 @@
+TODO
+
+
+
+
+
+
+-----------------------------------
+DONE
+-Load a dictionary file into a linked list
+-Make sure when i load to count nr of words in a global variable
+-Go through that list and check if the word (withot case sensitive) is there
+-Return the number of words under size
+-Go throughh that linked llist and free each node until you find the NULL node (tail last node / word)
+
+
+
+
+
+
+
+
+

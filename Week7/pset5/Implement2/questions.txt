@@ -1,0 +1,21 @@
+0.  The longest word in english
+1.  getrusage() is a method that pulls the time and resurces used for a process
+2.  There are 13 arguments in rusage struct
+3.  Because that is how the function was build to be used 
+4.The function for () will keep reading characters
+until will find the eof character so as quensequience it will stop 
+The main all  together is taking a dictionary file by pointer and openes it
+and will read line by line the word 
+Then will go ahead and take the input text and will compare 
+the text against the dictionary to be able to return spelled or missspelled
+  
+5.  fgetc is more precise
+fscanf it has problems with the buffer if not used properly
+Using fgetc is good because we don't really have to know how long the word is
+So we can just stop when we find a space ... and we will stop alltogether for eof.
+
+6.  To not touch or modify the content of the file by mistake
+7.  
+8.  TODO
+9.  TODO
+10. TODO

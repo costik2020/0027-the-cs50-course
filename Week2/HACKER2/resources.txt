@@ -1,0 +1,8 @@
+//The adress with the dictionaryes
+/usr/share/dict
+
+-----------------------------------------------------------------
+// The clang comand should add the link to ..
+clang -o crack crack.c -lcrypt
+
+---------------------------------------------------

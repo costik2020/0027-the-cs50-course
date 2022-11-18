@@ -1,0 +1,23 @@
+0.  JPEG  a couple of millions colorts and GIF 255 colors
+1.  GIF supports animation
+2.  JPEG is lossy format BMP is lossless format 
+3.  JPEG
+4.  Tehnicaly the information is still there but the OS forgets where in memory it is
+5.  Overwrrite the infortion with other information or use a dumy 0000 and 111 software
+6.  stdint containts the integer data types useful for porting the program from one 
+system to another
+7.  We make sure that the sisze of the integer is signed or unsigned
+By doing so we can use more positive numbers with unsigned numbers and soo on 
+It is useful tu be exac how many bites we use because other systems use more or less bites
+8. BYTE=1byte DWORD=4bytes LONG=4bytes WORD=2bytes
+9.  0x42 0x4D same as BM
+10. biSize is BITMAPINFOHEADERR size and bfSize is BITMAPFILEHEADER size
+11. If biHeight is negative the information of the cammera wrrote the data 
+from top to bottom and if it was positive that meanst the informatin is bottom -up
+12. biBitCount is bits Per Pixel
+13. If the file doesn't exist on disk ... fopen will return NULL
+14. Is 1 byte at the time that is why fread has 1 there 
+15. 3
+16. fseek() Moves the controler over a number of bytes in the working file 
+17. SEEK_CUR is the curent position of the controler ... where i point right now 
+18. TODO

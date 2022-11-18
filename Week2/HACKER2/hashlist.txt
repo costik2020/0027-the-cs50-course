@@ -1,0 +1,10 @@
+andi:HALRCq0IBXEPM            Password is : Berkeley
+caesar:50zPJlUFIYY0o          Password is : 13 
+eli:50MxVjGD7EfY6             Password is : yale 
+hdan:50z2Htq2DN2qs            Password is : boola 
+jason:50CMVwEqJXRUY
+john:50TGdEyijNDNY            Password is : harvard
+levatich:50QykIulIPuKI
+rob:50q.zrL5e0Sak             Password is : password        
+skroob:50Bpa7n/23iug          Password is : 12345
+zamyla:HAYRs6vZAb4wo          Password is : password

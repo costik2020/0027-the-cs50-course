@@ -1,0 +1,6 @@
+
+
+void sum(int nr);
+
+
+
